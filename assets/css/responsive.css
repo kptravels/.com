@@ -6,7 +6,7 @@
 	}
 	.slider-right-text {
 		font-size: 16px;
-		text-align: right;
+		text-align: -webkit-center;
 		margin-top: 0px;
 	}
 	.slider-right-text h1 {
